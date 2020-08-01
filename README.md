@@ -1,5 +1,11 @@
 ### Hello 👋
 
+Hello everyone I am a 13 year old programmer!!!
+<br>
+My first programming language was python and now I know many languages and frameworks. 
+<br>
+I started programming when I was in 3rd class.
+
 <img src="https://github-readme-stats.vercel.app/api?username=andy-python-programmer">
 
 <!--
