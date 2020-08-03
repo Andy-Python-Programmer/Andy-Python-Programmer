@@ -22,3 +22,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center">
+  
+### Show some ❤️ by starring some of the repositories!
+
+</p>
