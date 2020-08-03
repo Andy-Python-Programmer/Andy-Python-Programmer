@@ -23,8 +23,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center">
-  
-### Show some ❤️ by starring some of the repositories!
-
-</p>
+<h3 align="center">Show some ❤️ by starring some of the repositories!</h3>
