@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3 align="center">Show some ❤️ by starring some of the repositories!</h3>
+<h3 align="center">Show some ❤️ by starring some of my repositories!</h3>
