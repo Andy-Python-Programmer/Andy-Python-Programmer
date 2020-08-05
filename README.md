@@ -1,10 +1,7 @@
-### Hello 👋
+### Hello I'm Anhad
 
-Hello everyone I am a 13 year old programmer!!!
-<br>
-My first programming language was python and now I know many languages and frameworks. 
-<br>
-I started programming when I was in 3rd class.
+![Age](https://img.shields.io/badge/Age-13-blue)
+![location](https://img.shields.io/badge/Live%20in-Australia-red)
 
 <img src="https://github-readme-stats.vercel.app/api?username=andy-python-programmer">
 
