@@ -8,6 +8,8 @@ I started programming when I was in 3rd class.
 
 <img src="https://github-readme-stats.vercel.app/api?username=andy-python-programmer">
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andy-python-programmer)](https://github.com/andy-python-programmer/github-readme-stats)
+
 <!--
 **Andy-Python-Programmer/Andy-Python-Programmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
