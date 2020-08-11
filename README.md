@@ -3,6 +3,10 @@
 ![Age](https://img.shields.io/badge/Age-13-blue)
 ![location](https://img.shields.io/badge/Live%20in-Australia-red)
 
+### Languages and Tools:
+
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" />
+
 <img src="https://github-readme-stats.vercel.app/api?username=andy-python-programmer">
 
 <!--
