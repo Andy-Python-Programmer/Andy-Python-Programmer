@@ -3,6 +3,8 @@
 ![Age](https://img.shields.io/badge/Age-13-blue)
 ![location](https://img.shields.io/badge/Live%20in-Australia-red)
 
+<img src="avatar.png" align="right" height="250px">
+
 ### My skills include!
 
 <img align="left" alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" />
