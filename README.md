@@ -6,8 +6,13 @@
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" /><img align="left" alt="HTML" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" />
+<img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" />
+<img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/flutter/flutter.png" />
+<img align="left" alt="Java Script" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" />
+<img align="left" alt="Dart" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/dart/dart.png" />
 
+<br>
 <br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=andy-python-programmer">
