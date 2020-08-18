@@ -12,6 +12,9 @@
 <img align="left" alt="Java Script" width="35px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" />
 <img align="left" alt="Dart" width="35px" src="https://raw.githubusercontent.com/github/explore/master/topics/dart/dart.png" />
 <img align="left" alt="Node Js" width="35px" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" />
+<img align="left" alt="Git" width="35px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" />
+<img align="left" alt="Git Hub" width="35px" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" />
+<img align="left" alt="Electron" width="35px" src="https://raw.githubusercontent.com/github/explore/master/topics/electron/electron.png" />
 
 <br>
 <br>
@@ -19,7 +22,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=andy-python-programmer">
 
 <!--
-**Andy-Python-Programmer/Andy-Python-Programmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Andy-Python-Programmer/Andy-Python-Programmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on you GitHub profile.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andy-python-programmer)](https://github.com/andy-python-programmer/github-readme-stats)
 Here are some ideas to get you started:
 
