@@ -3,7 +3,7 @@
 ![Age](https://img.shields.io/badge/Age-13-blue)
 ![location](https://img.shields.io/badge/Live%20in-Australia-red)
 
-<img src="avatar.png" align="right" height="250px">
+<img src="https://github.com/Andy-Python-Programmer/Andy-Python-Programmer/blob/master/avatar.png" align="right" height="220px">
 
 ### My skills include!
 
