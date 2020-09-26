@@ -19,6 +19,13 @@
 <br>
 <br>
 
+```dart
+void main() {
+  const String name = "Anhad Singh";
+  var int age = 13;
+}
+```
+
 <img src="https://github-readme-stats.vercel.app/api?username=andy-python-programmer">
 
 <!--
