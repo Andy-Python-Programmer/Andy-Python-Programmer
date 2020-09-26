@@ -21,8 +21,20 @@
 
 ```dart
 void main() {
-  const String name = "Anhad Singh";
-  var int age = 13;
+  Map<String, dynamic> about = {
+    "name": "Anhad Singh",
+    "age" 13,
+    "pronouns": "he/him"
+    "code": [
+      "Python", 
+      "Dart", 
+      "Flutter", 
+      "Flask", 
+      "Electron", 
+      "Node",
+      "Learning more stuff too!"
+    ]
+  }
 }
 ```
 
