@@ -55,10 +55,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 <a href="https://github.com/Andy-Python-Programmer">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andy-Python-Programmer&theme=light&hide_langs_below=1" />
 </a>
+-->
 
 <h3 align="center">Show some ❤️ by starring some of my repositories!</h3>
