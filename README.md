@@ -16,6 +16,7 @@
 <img align="left" alt="Git" width="35px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" />
 <img align="left" alt="Git Hub" width="35px" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" />
 <img align="left" alt="Electron" width="35px" src="https://raw.githubusercontent.com/github/explore/master/topics/electron/electron.png" />
+<img align="left" alt="Rust" width="35px" src="https://raw.githubusercontent.com/github/explore/master/topics/rust/rust.png" />
 
 <br>
 <br>
