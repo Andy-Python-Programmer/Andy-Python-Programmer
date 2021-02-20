@@ -28,6 +28,7 @@ void main() {
     "age" 13,
     "pronouns": "he/him"
     "code": [
+      "Rust",
       "Python", 
       "Dart", 
       "Flutter", 
