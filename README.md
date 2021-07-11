@@ -11,7 +11,7 @@
 
 ```rust
 fn main() {
-  let this = About = {
+  let this = About {
     name: "Anhad Singh",
     age 13,
     pronouns: "he/him"
