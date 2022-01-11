@@ -14,7 +14,7 @@ fn main() {
   let this = About {
     name: "Anhad Singh",
     age: 14,
-    pronouns: "he/him"
+    pronouns: "he/him",
     code: vec![
       "Rust",
       "Python", 
