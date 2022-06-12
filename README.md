@@ -17,12 +17,12 @@ fn main() {
     pronouns: "he/him",
     code: vec![
       "Rust",
+      "Assembly", 
+      "C", 
+      "C++", 
       "Python", 
-      "Dart", 
-      "Flutter", 
-      "Flask", 
-      "Electron", 
-      "Node",
+      "GIT", 
+      "Bash/Shell Scripting",
       "..."
     ]
   };
