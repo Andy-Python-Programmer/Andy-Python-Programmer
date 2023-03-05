@@ -29,4 +29,4 @@ fn main() {
 }
 ```
 
-"G'day cobber! As a bloody programmer, I'm a real wiz when it comes to sorting out those pesky memory corruption issues. Recently, I cracked open ASAN to *sus* out what was going on, and then I used me bloody top-notch skills with GDB to track down the exact spot in the program's memory where the drama was happening. Quick as flash, I sorted out the issue and now the program's running like a dream with no more memory bugs. I'm chuffed with me skills" - Anhad Singh
+"*G'day cobber! As a bloody programmer, I'm a real wiz when it comes to sorting out those pesky memory corruption issues. Recently, I cracked open ASAN to sus out what was going on, and then I used me bloody top-notch skills with GDB to track down the exact spot in the program's memory where the drama was happening. Quick as flash, I sorted out the issue and now the program's running like a dream with no more memory bugs. I'm chuffed with me skills*" - Anhad Singh
