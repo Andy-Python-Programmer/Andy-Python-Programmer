@@ -2,7 +2,7 @@
 
 ### Hello <img src="https://github.com/Andy-Python-Programmer/Andy-Python-Programmer/blob/master/hello.gif" height="25px"> I'm Anhad!
 
-![Age](https://img.shields.io/badge/Age-16-blue)
+![Age](https://img.shields.io/badge/Age-17-blue)
 ![location](https://img.shields.io/badge/Live%20in-Australia-red)
 
 
@@ -13,7 +13,7 @@
 fn main() {
   let this = About {
     name: "Anhad Singh",
-    age: 16,
+    age: 17,
     pronouns: "he/him",
     code: vec![
       "Rust",
